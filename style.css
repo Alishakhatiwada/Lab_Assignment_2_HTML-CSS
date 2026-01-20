@@ -1,0 +1,60 @@
+/* Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Page Background */
+body {
+    background-color: #eef2f7;
+}
+
+
+/* Element Selectors */
+h1 {
+    color: #f1c40f;
+    text-align: center;
+    margin-bottom: 6px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: #2d3436;
+}
+
+/* Group Selector */
+h2, h3 {
+    color: #2980b9;
+    margin-bottom: 12px;
+}
+
+/* Class Selector */
+.section-box {
+    background-color: #eee7e7;
+    border: 1px solid #dbd5d5;
+    padding: 18px;
+    margin: 18px;
+    border-radius: 6px;
+}
+
+/* ID Selector */
+#student-name {
+    color: #8e44ad;
+    font-weight: bold;
+}
+
+/* Descendant Selectors */
+.course-list li {
+    color: #20be6a;
+    margin-left: 22px;
+    margin-bottom: 5px;
+}
+
+.hobby-list li {
+    color: #1ccb91;
+    margin-left: 22px;
+    margin-bottom: 5px;
+}
