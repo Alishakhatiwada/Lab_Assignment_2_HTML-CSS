@@ -43,7 +43,7 @@ Lab_Assignment_2
 
 ## Steps to Run the Project
 1. Download or clone the repository
-2. Open the `student-profile` folder
+2. Open the `Lab_Assignment_2` folder
 3. Double-click `index.html` or open it using any web browser
 4. Inspect elements using browser developer tools to verify CSS selector usage
 
